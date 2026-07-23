@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Tuur667.aternos.me:12839",
+    "ip": "Tuur667.aternos.me",
     "port": 12839,
     "version": "",
     "try-creative": false
