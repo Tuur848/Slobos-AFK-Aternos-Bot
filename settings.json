@@ -5,8 +5,8 @@
     "password": "",
     "type": "offline"
   },
-  "server": {
-    "ip": "Tuur667.aternos.me",
+  "server": Tuur667.aternos.me{
+    "ip": "",
     "port": 12839,
     "version": "",
     "try-creative": false
